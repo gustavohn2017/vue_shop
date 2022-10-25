@@ -1,0 +1,3 @@
+[submodule "virtue_vue"]
+	path = virtue_vue
+	url = https://github.com/gustavohn2017/vue_shop
